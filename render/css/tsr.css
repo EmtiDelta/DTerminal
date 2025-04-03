@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    overflow: hidden;
+}
+#girdi{
+    position: relative;
+    width: 200px;
+    top: 1;
+    left: 1;
+    background-color: transparent;
+    outline: none;
+    color: rgb(255, 255, 255);
+    
+}
+#çıktı{
+    position: relative;
+    top: 1px;
+    left: 1px;
+    width: 700px;
+    color: wheat;
+}

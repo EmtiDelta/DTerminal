@@ -1,0 +1,16 @@
+{
+  "name": "dterminal",
+  "version": "1.0.0",
+  "description": "Terminal App",
+  "main": "Main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "EmtiDelta",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^35.1.2",
+    "resize-img": "^1.1.2",
+    "toastify-js": "^1.12.0"
+  }
+}
