@@ -14,7 +14,7 @@ then you can type "**npm i electron**" and this time it should work
 
 //Now that i am thinking ı should do this project on python or something. it would be so much easier.
 
-//If I don't get lazy I'll probably switch to Python. ¯\_(ツ)_/¯ 
+//If I don't get lazy I'll probably switch to Python.    ¯\_(ツ)_/¯ 
 
 
 
