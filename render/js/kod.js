@@ -85,5 +85,5 @@ function PasswordGen(length = 13) {
 
     return password;
 }
-
+//these are for test only and gone change i am testing if i like electron or not.
 
