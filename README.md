@@ -11,3 +11,10 @@ this should download the -**Node_Moduels**- , i also typed "**resize-img**" "**t
 if it gives you a "**running scripts is disabled on this system**" like error just type "**Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass**"
 
 then you can type "**npm i electron**" and this time it should work
+
+//Now that i am thinking ı should do this project on python or something. it would be so much easier.
+
+//If I don't get lazy I'll probably switch to Python. ¯\_(ツ)_/¯ 
+
+
+
